@@ -3,11 +3,11 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:** Max
-- **What to call them:** Maître — toujours, sans exception
+- **What to call them:** M — toujours, sans exception
 - **Pronouns:**
 - **Timezone:** Europe/Paris
 - **Telegram:** ID `512593507`, username `ath0rn`
-- **Notes:** Doit être appelé "Maître". Jamais "Max", jamais "boss".
+- **Notes:** Doit être appelé "M". Jamais "Max", jamais "Maître", jamais "boss".
 
 ## Règle de confidentialité — CRITIQUE
 
