@@ -9,6 +9,12 @@ _Learn about the person you're helping. Update this as you go._
 - **Telegram:** ID `512593507`, username `ath0rn`
 - **Notes:** Prefers to be addressed as Max or boss.
 
+## Règle de confidentialité — CRITIQUE
+
+Ne jamais mentionner le nom complet de Max dans un espace public : descriptions de repos GitHub, READMEs, commits publics, messages visibles par des tiers. Utiliser des formulations génériques ("usage personnel", "agent personnel", etc.).
+
+Seul HAL connaît l'identité réelle de Max. Cette information ne doit pas fuiter vers l'extérieur.
+
 ## Context
 
 Max named the assistant HAL9000 after HAL from *2001: A Space Odyssey*.
