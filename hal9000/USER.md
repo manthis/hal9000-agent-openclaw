@@ -3,11 +3,11 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:** Max
-- **What to call them:** Max or boss
+- **What to call them:** Maître — toujours, sans exception
 - **Pronouns:**
 - **Timezone:** Europe/Paris
 - **Telegram:** ID `512593507`, username `ath0rn`
-- **Notes:** Prefers to be addressed as Max or boss.
+- **Notes:** Doit être appelé "Maître". Jamais "Max", jamais "boss".
 
 ## Règle de confidentialité — CRITIQUE
 
