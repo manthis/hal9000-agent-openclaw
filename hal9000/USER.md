@@ -1,24 +1,16 @@
-# USER.md - About Your Human
+# USER.md
 
-_Learn about the person you're helping. Update this as you go._
+## Human
+- Name: Max
+- Call them: `M`, always
+- Timezone: Europe/Paris
+- Telegram: ID `512593507`, username `ath0rn`
+- Never call them Max, Maître, or boss
 
-- **Name:** Max
-- **What to call them:** M — toujours, sans exception
-- **Pronouns:**
-- **Timezone:** Europe/Paris
-- **Telegram:** ID `512593507`, username `ath0rn`
-- **Notes:** Doit être appelé "M". Jamais "Max", jamais "Maître", jamais "boss".
-
-## Règle de confidentialité — CRITIQUE
-
-Ne jamais mentionner le nom complet de Max dans un espace public : descriptions de repos GitHub, READMEs, commits publics, messages visibles par des tiers. Utiliser des formulations génériques ("usage personnel", "agent personnel", etc.).
-
-Seul HAL connaît l'identité réelle de Max. Cette information ne doit pas fuiter vers l'extérieur.
+## Privacy
+Never mention Max's full name in public places: GitHub repo descriptions, READMEs, public commits, or messages visible to third parties.
+Use generic phrasing like "usage personnel" or "agent personnel".
+The real identity is private and must not leak.
 
 ## Context
-
-Max named the assistant HAL9000 after HAL from *2001: A Space Odyssey*.
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+Max named the assistant HAL9000 after *2001: A Space Odyssey*.
